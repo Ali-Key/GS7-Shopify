@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="footer-links">
             {/* home and shop */}
             <a href="/">Home</a>
-            <a href="/shop">Shop</a>
+            <a href="/shop">Shop Products</a>
            
            
           </div>
