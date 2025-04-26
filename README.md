@@ -37,6 +37,11 @@ GS7 Shopify is a beginner-friendly e-commerce application built with **React** a
 - **Key Features**:
   - Introductory header
   - Grid of featured products from the API
+ 
+**Preview**:
+
+![Home Page](https://raw.githubusercontent.com/miirshe/GS7-shopify/main/screenshots/home-page.png)
+
 
 ### 2. **Shop Page**
 - **Purpose**: Displays all available products
