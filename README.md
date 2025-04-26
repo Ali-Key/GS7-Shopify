@@ -2,7 +2,12 @@
 
 GS7 Shopify is a beginner-friendly e-commerce application built with **React** and **Vite**. It demonstrates how to build a modern, responsive online store with key features like product listing, product details, and navigation.
 
+
+🌐 **Live Demo of Our Project**: [https://gs-7-shopify-rust.vercel.app/](https://gs-7-shopify-rust.vercel.app/)
+
 ---
+
+
 
 ## 🚀 Features
 
