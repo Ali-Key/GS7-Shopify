@@ -10,7 +10,7 @@ GS7 Shopify is a beginner-friendly e-commerce application built with **React** a
 - **Product Details** – Click a product to view its full description, price, and category
 - **Dynamic Navigation** – Navigate between pages (Home, Shop, Product Details) using React Router
 - **Responsive Design** – Fully responsive layout for both desktop and mobile
-- **Reusable Components** – Built using modular components like `Navbar`, `Footer`and, `ProductCard`, and
+- **Reusable Components** – Built using modular components like `Navbar`, `Footer`and, `ProductCard`
 - **Error Handling** – Friendly error messages for failed API calls or unexpected data
 
 ---
